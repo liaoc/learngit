@@ -4,3 +4,4 @@ git is a distributed version control system
 git is free software for
 Creating a new branch is quick.
 i.m wrong
+Creating a new branch is quick AND simple.
