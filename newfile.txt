@@ -1,2 +1,6 @@
 git stash test
+<<<<<<< Updated upstream
 git stash test
+=======
+testand t
+>>>>>>> Stashed changes
